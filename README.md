@@ -35,4 +35,4 @@ Relevant data sources:
 
 ## Acknowledgements
 
-This analysis was completed as part of coursework for ATMS 502 at University of Washington.
+This analysis was completed as as final project for ATMS 502 at University of Washington.
